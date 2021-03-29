@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/topxeq/qlang/text/tpl"
+	"github.com/topxeq/text/tpl"
 )
 
 /* -----------------------------------------------------------------------------
