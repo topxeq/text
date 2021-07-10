@@ -368,6 +368,7 @@ exponent:
 	}
 
 exit:
+	// fmt.Printf("%v, %#v, %v\n", tok, tok, string(s.src[offs:s.offset]))
 	return tok, string(s.src[offs:s.offset])
 }
 
